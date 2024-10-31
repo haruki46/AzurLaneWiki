@@ -8,3 +8,19 @@ Creadit:
   Azur lane Wiki: https://azurlane.koumakan.jp/wiki/Azur_Lane_Wiki
   Azur Lane Comunity Tier List: https://slaimuda.github.io/ectl/#/home
 </pre
+
+
+### Install dependencies
+
+You can use one of them `npm`, `yarn`, `pnpm`, `bun`, Example using `npm`:
+
+```bash
+npm install
+```
+
+### Run the development server
+
+```bash
+npm run dev
+```
+
